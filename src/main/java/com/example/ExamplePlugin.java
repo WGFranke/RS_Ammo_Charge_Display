@@ -14,7 +14,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Example"
+	name = "RS_Ammo_Charge_Counter"
 )
 public class ExamplePlugin extends Plugin
 {
@@ -27,7 +27,7 @@ public class ExamplePlugin extends Plugin
 	@Override
 	protected void startUp() throws Exception
 	{
-		log.debug("Example started!");
+		log.debug("I'm a pussy!");
 	}
 
 	@Override
